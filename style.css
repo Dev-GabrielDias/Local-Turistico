@@ -1,9 +1,7 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
-
-
 main{
     max-width: 1120px;
     margin-top: 88px auto;
@@ -37,23 +35,46 @@ h1{
   margin: 36px 0;
   background-color: #d9d9d9;
 }
-#templo{
+.container{
     margin-top: 64px;
 }
 
-#templo img{
+.container img{
     margin-top: 64px;
     margin-bottom: 20px;
 }
 h3{
     font-size: 28px;
 }
-ul{
+ul li{
     list-style-type: none;
-    padding-left: 12px;
+    color: #0C51A7;
+    margin-bottom: 48px;
 }
 
 .teste p{
    text-align: justify;
 
+}
+h4{
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: left;
+    padding-left: 0;
+}
+h3{
+    margin-top: 20px;
+    margin-bottom: 4px;
+}
+ul .list li{
+    margin-bottom: 0px;
+}
+.item1{
+    color: #591B98 ;
+}
+.item2{
+    color: #E5245E;
+}
+.item3{
+    color: #E95E10;
 }
